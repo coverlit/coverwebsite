@@ -3,6 +3,6 @@ layout: post
 title: About
 ---
 
-We publish fiction and poetry.
+<p>We publish fiction and poetry.</p>
 
-Find us on Bluesky.
+<p>Find us on Bluesky.</p>
